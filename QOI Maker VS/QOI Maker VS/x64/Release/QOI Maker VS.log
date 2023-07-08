@@ -1,0 +1,16 @@
+﻿  LButton.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\LButton.h(3,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL.h': No such file or directory
+  LTexture.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\LTexture.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL.h': No such file or directory
+  LTimer.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\LTimer.h(2,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL.h': No such file or directory
+  main.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\PixelViewer.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL.h': No such file or directory
+  PixelViewer.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\PixelViewer.h(4,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'SDL.h': No such file or directory
+  Pixel_Exceptions.cpp
+  Pixel.cpp
+  Exception.cpp
+  qoi_exceptions.cpp
+  qoi.cpp
+  qoi_io.cpp

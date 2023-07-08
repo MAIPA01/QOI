@@ -1,0 +1,6 @@
+﻿  PixelViewer.cpp
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\PixelViewer.cpp(101,43): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+D:\Patryk Antosik\Documents\C++\QOI Maker VS\QOI Maker VS\PixelViewer.cpp(102,44): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+  QOI Maker VS.vcxproj -> D:\Patryk Antosik\Documents\C++\QOI Maker VS\x64\Debug\QOI Maker VS.exe
